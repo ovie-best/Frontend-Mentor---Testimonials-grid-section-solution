@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View my solution on frontend mentor](https://www.frontendmentor.io/solutions/responsive-grid-testimonial-section-with-nice-hover-effects-MB7eaDZOCa)
+- Live Site URL: [View live site here](https://frontend-mentor-testimonials-grid-section-solution-uayw.vercel.app/)
 
 ## My process
 
