@@ -55,18 +55,33 @@ body {
 .card:hover {
     box-shadow: 4px 4px 8px 4px var(--Light-gray);
     cursor: pointer;
+    -webkit-transition: all 0.4s ease-in;
+    -moz-transition: all 0.4s ease-in;
+    -o-transition: all 0.4s ease-in;
     transition: all 0.4s ease-in;
 }
 
 .cd3:hover, .cd2:hover {
+    -webkit-transform: scale(105%) rotate(1deg);
+    -moz-transform: scale(105%) rotate(1deg);
+    -ms-transform: scale(105%) rotate(1deg);
+    -o-transform: scale(105%) rotate(1deg);
     transform: scale(105%) rotate(1deg);
 }
 
 .cd4:hover, .cd1:hover {
+    -webkit-transform: scale(105%) rotate(-1deg);
+    -moz-transform: scale(105%) rotate(-1deg);
+    -ms-transform: scale(105%) rotate(-1deg);
+    -o-transform: scale(105%) rotate(-1deg);
     transform: scale(105%) rotate(-1deg);
 }
 
 .cd5:hover {
+    -webkit-transform: scale(108%) rotateX(20deg);
+    -moz-transform: scale(108%) rotateX(20deg);
+    -ms-transform: scale(108%) rotateX(20deg);
+    -o-transform: scale(108%) rotateX(20deg);
     transform: scale(108%) rotateX(20deg);
 }
 
